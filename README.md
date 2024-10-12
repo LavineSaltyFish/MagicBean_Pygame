@@ -3,7 +3,7 @@ This is a small maze game developed with Pygame. The game idea took a little ins
 Here is a demo video of the game play: https://drive.google.com/file/d/1BCeuMHreKDtcuZiy4AxTc8i6JUmgXvri/view?usp=drive_link
 
 ## Game elements
-([read_me_pics/gameplay_screenshot_anno.png](https://github.com/LavineSaltyFish/MagicBean_Pygame/blob/main/read_me_pics/gameplay_screenshot_anno.png?raw=true))
+[](https://github.com/LavineSaltyFish/MagicBean_Pygame/blob/main/read_me_pics/gameplay_screenshot_anno.png?raw=true)
 4 Actions allowed:
 - "move left"
 - "move right"

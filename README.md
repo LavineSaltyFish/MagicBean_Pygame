@@ -3,12 +3,15 @@ This is a small maze game developed with Pygame. The game idea took a little ins
 Here is a [demo video](https://drive.google.com/file/d/1BCeuMHreKDtcuZiy4AxTc8i6JUmgXvri/view?usp=drive_link) of the game play.
 
 ## Game elements
+4 actions allowed:  
+- move left  
+- move right  
+- jump  
+- change color  
+To reach the wonder seed, the character has to be in the same color as the seed.
+
 ![](https://github.com/LavineSaltyFish/MagicBean_Pygame/blob/main/read_me_pics/gameplay_screenshot_anno.png?raw=true)
 
-4 actions allowed:  
--move left
--move right
--jump
--change color
 
-To reach the wonder seed, the character has to be in the same color as the seed.
+
+

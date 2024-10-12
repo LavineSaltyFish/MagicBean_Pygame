@@ -8,8 +8,8 @@ Here is a [demo video](https://drive.google.com/file/d/1BCeuMHreKDtcuZiy4AxTc8i6
 - move right  
 - jump  
 - change color  
-To reach the wonder seed, the character has to be in the same color as the seed.
 
+To reach the wonder seed, the character has to be in the same color as the seed.
 ![](https://github.com/LavineSaltyFish/MagicBean_Pygame/blob/main/read_me_pics/gameplay_screenshot_anno.png?raw=true)
 
 
